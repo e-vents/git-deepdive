@@ -18,6 +18,7 @@ public class Playground {
     System.out.print("first method");
     System.out.print("OP-0002 change"); //different
     System.out.print("OP-0001 change");
+    System.out.print("OP-0002 change"); //different
   }
 
 }
