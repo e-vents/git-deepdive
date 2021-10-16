@@ -17,5 +17,6 @@ public class HelperClass {
 
   public void unusualChangeSecond() {
     day = 4;
+    System.out.println("seventh commit of OP-0002");
   }
 }
