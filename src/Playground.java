@@ -16,6 +16,7 @@ public class Playground {
     helperClass.unusualChange();
     helperClass.unusualChangeSecond();
     System.out.print("first method");
+    System.out.print("OP-0002 change"); //different
     System.out.print("OP-0001 change");
   }
 
