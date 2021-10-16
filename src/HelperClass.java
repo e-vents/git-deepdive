@@ -8,6 +8,7 @@ public class HelperClass {
     month = 12;
   }
 
+  // change part 1
   // change part 2
   public void unusualChange() {
     day = 3;
