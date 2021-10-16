@@ -7,8 +7,6 @@ public class Playground {
     }
 
     firstMethod();
-    firstMethod(); // again
-    firstMethod(); // okay, lets do it
   }
 
   public static void firstMethod() {
