@@ -9,4 +9,8 @@ public class HelperClass {
   public void unusualChange() {
     day = 3;
   }
+
+  public void unusualChangeSecond() {
+    day = 4;
+  }
 }
