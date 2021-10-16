@@ -7,6 +7,7 @@ public class Playground {
     }
 
     firstMethod();
+    firstMethod(); // okay, lets do it
   }
 
   public static void firstMethod() {
