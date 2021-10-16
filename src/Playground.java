@@ -12,6 +12,7 @@ public class Playground {
   public static void firstMethod() {
     HelperClass helperClass = new HelperClass();
     helperClass.unusualChange();
+    helperClass.unusualChangeSecond();
     System.out.print("first method");
   }
 

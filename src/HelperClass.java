@@ -13,4 +13,8 @@ public class HelperClass {
     day = 3;
     month = 10;
   }
+
+  public void unusualChangeSecond() {
+    day = 4;
+  }
 }
