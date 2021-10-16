@@ -5,5 +5,14 @@ public class Playground {
     for (int value : numbers) {
       System.out.print(value + " ");
     }
+
+    firstMethod();
   }
+
+  public static void firstMethod() {
+    HelperClass helperClass = new HelperClass();
+    helperClass.unusualChange();
+    System.out.print("first method");
+  }
+
 }
