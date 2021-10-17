@@ -2,8 +2,10 @@ public class HelperClass {
 
   int day;
   int month;
+  String m;
 
-  public HelperClass() {
+  public HelperClass(String s) {
+    m = s;
     day = 2;
     month = 12;
   }
