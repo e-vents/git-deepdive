@@ -19,4 +19,8 @@ public class Playground {
   public static void methodOfThree() {
     // merging conflicts? no problem!
   }
+
+  public static void methodOfFour() {
+    // finally, understood rebasing
+  }
 }
