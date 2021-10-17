@@ -12,12 +12,7 @@ public class Playground {
   }
 
   public static void firstMethod() {
-    HelperClass helperClass = new HelperClass();
-    helperClass.unusualChange();
-    helperClass.unusualChangeSecond();
-    System.out.print("first method");
-    System.out.print("OP-0001 change");
-    System.out.print("OP-0002 change"); // correct state
+    System.out.print("OP-0004 change"); // correct state
   }
 
 }
