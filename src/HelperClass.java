@@ -4,7 +4,7 @@ public class HelperClass {
   int month;
   String m;
 
-  public HelperClass(String s) {
+  public HelperClass(int i, String s) {
     m = s;
     day = 2;
     month = 12;
