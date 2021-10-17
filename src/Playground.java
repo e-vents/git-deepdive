@@ -12,6 +12,7 @@ public class Playground {
   }
 
   public static void firstMethod() {
+    // completely new implemented by OP-0003
     System.out.print("OP-0004 change"); // correct state
   }
 
