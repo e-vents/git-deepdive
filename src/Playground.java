@@ -16,4 +16,7 @@ public class Playground {
     System.out.print("OP-0004 change"); // correct state
   }
 
+  public static void methodOfThree() {
+    // merging conflicts? no problem!
+  }
 }
